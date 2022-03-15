@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class ProgramaMedia {
+
+public static void main(String[] args) {
+
+Scanner Teclado = new Scanner(System.in);
+double nota1, nota2;
+nota1 = Teclado.nextDouble();
+nota2 = ler.nextDouble();
+double media = ( nota1 + nota2 ) / 2;
+System.out.println("A média entre as notas 1 e 2 é de: " + media);
+
+}
+
+}

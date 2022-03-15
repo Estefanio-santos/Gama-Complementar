@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\efs20\gama-complementar\aula01\Gama-Complementar\Aula01\.metadata\.plugins\org.eclipse.jdt.core
+240880419.index
+851528089.index
+1865797976.index
